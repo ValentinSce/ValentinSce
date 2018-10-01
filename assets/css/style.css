@@ -59,14 +59,6 @@ p.lead {
   margin-right: 1rem;
 }
 
-.social-icons a:last-child {
-  margin-right: 0;
-}
-
-.social-icons a:hover {
-  background-color: ;
-}
-
 .dev-icons {
   font-size: 3rem;
 }
