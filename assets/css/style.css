@@ -174,3 +174,7 @@ a {
 .number{
   font-size: 25px;
 }
+
+.number:after{
+  content: '%';
+}
